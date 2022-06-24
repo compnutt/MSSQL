@@ -1,1 +1,1 @@
-# MSSQL
+# MSSQL repository for SQL scripts.
